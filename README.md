@@ -1,4 +1,4 @@
-sourcemod-jumpmenu
+[TF2] Jump Menu
 ==================
 
 Features for TF2 Jumping
